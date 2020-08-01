@@ -10,11 +10,11 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "elliptic": "^6.5.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "typescript": "~3.7.2",
-    "elliptic": "^6.5.3",
+    "typescript": "^3.9.7",
     "websocket-extensions": "^0.1.4"
   },
   "scripts": {
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0"
   }
 }
