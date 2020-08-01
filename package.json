@@ -14,7 +14,8 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "typescript": "~3.7.2",
-    "elliptic": "^6.5.3"
+    "elliptic": "^6.5.3",
+    "websocket-extensions": "^0.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
